@@ -6,4 +6,6 @@ I will be creating a log file as well to log my daily progress in creating the r
 
 During this project I have tested the skils I learned thus far for the foundations. Please do let me know what you all think. (i suck at design)
 
+Please find my Site here https://grivil0417.github.io/odin-recipes/
+
 log.md
