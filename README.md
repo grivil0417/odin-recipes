@@ -8,4 +8,6 @@ During this project I have tested the skils I learned thus far for the foundatio
 
 Please find my Site here https://grivil0417.github.io/odin-recipes/
 
+Update: Added steps forgot critical part of the recipe website
+
 log.md
